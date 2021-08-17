@@ -1,3 +1,0 @@
-flask
-sqlite
-peewee #for orm
